@@ -1,1 +1,1 @@
-# A Review of the Work I Completed In Week 1
+# A review of the work I completed in week 1
