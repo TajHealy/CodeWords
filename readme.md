@@ -1,3 +1,2 @@
-hello world
-i lOvE **SHREK**
-This is a website filled with important info
+
+**WELCOME TO MY CODE-WORDS SKO**
