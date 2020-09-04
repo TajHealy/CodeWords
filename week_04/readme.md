@@ -1,6 +1,6 @@
 # WEEK_04
 
-## Code Corner
+## CODE CORNER
 This week we focussed on how to pre-load and load different typefaces into our Code, then animate them to repeat, fade and spin. This was a fun first step to gaining an understanding of how we can start to incorporate written information into our coding.
 
 ## Group Assignment
