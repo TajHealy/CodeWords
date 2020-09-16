@@ -8,7 +8,7 @@ During class this week I decided on a short passage from my chosen text Black 'L
 At the moment I feel I could tie this passage into my design through the use of blaring audio.
 
 
-## Paper Prototyping
+## Paper Prototyping + Pseudo Code
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_07/week7images/paperPrototype.gif?raw=true)
 
 ## CODE CORNER
