@@ -15,3 +15,11 @@ At the moment I feel the only way a virtual classroom could adequately replace a
 
 ## An Introduction to CODE
 In our first coding lesson we learnt the basics of opening up Processing and setting up a new sketch under p5.Js mode. We also gained an understanding of how to draw different colours, shapes, lines and ways to make the code interactive. Before next class we were asked to use this new knowledge to create the first letter of our first name.
+
+## In Class Work (interactive)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/MyFirstSketch.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/rainbowCircle.jpg?raw=true)
+
+## Initials work (practice and interactive final)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/initialsLine.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/shapesT.jpg?raw=true)
