@@ -1,7 +1,6 @@
 # WEEK_01
 
 ## Hello + Welcome
-(welcomeCodewords.jpg)
 For our first class we began with a quick introduction to the course ‘Codewords = Code + Words’ and held a short discussion on Andy and Karen ann’s history of work and why would should (or should not) trust them. This gave as a clear understanding on some of the basic learning goals in the course and what we can expect to achieve.
 
 ## Minecraft Melbourne + Hyper-textuality 
