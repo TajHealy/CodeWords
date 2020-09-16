@@ -3,8 +3,10 @@
 ## Hello + Welcome
 For our first class we began with a quick introduction to the course ‘Codewords = Code + Words’ and held a short discussion on Andy and Karen ann’s history of work and why would should (or should not) trust them. This gave as a clear understanding on some of the basic learning goals in the course and what we can expect to achieve.
 
+
 ## Minecraft Melbourne + Hyper-textuality 
-MINECRAFT MELBOURNE + HYPERTEXTUALITY (MC MELB SCREEN CAP)
+![alt text](https://github.com/[TajHealy]/[CodeWords]/blob/[week_01]/minecraft.jpg?raw=true)
+MINECRAFT MELBOURNE + HYPERTEXTUALITY
 At midday the class gathered in a Minecraft version of Melbourne. It was interesting to see people interacting and co-operating in a digital space as if it were a physical classroom. During this we discussed hyper-textuality and how reading will change in the digital world. This experience made me wonder how virtual environments could replace physical classrooms in an unusual time such as now. 
 
 (The following is a train of thought I had considering the possibility of a digital classroom...)
