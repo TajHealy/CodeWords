@@ -12,9 +12,10 @@ This week we were also introduced to ‘House of Leaves’ and broke up into gro
 For this week’s hour of code, we focussed on creating a spirograph that rolled from the top left to the bottom right of the screen. This gave me some ideas for the possibility of pattern making using code. 
 For homework we were asked to tinker with a peer’s code and change it in some way. After seeing how one student had changed my original code using 3D shapes, I decided to create a small experiment using different bits of code we had learnt so far as well as 3D elements.
 
-## Spirograph Pattern
+## Spirograph Pattern (interactive)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/codeSpirograph.jpg?raw=true)
-## Tinkering With Code
+## Tinkering With Code (interactive)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/mVanishing.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/mVanishing2.jpg?raw=true)
-## Playing With 3D
+## Playing With 3D (interactive)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/3Dspin.jpg?raw=true)
