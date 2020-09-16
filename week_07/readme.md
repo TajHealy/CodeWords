@@ -12,18 +12,21 @@ At the moment I feel I could tie this passage into my design through the use of 
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_07/week7images/paperPrototype.gif?raw=true)
 
 START
+
 show preloaded text in legible font
   play quiet humming sound
 
 IF user scrolls down
   Type becomes illegible
   sound playing gets louder 
+
 ELSE IF user does not scroll
   leave type legible and sound quiet
   
 IF user scrolls up
   make type more legible
   make sound quiet
+
 UNLESS user has already scrolled up THEN
   leave type legible
   leave sound quiet
