@@ -5,7 +5,8 @@ For our first class we began with a quick introduction to the course ‘Codeword
 
 
 ## Minecraft Melbourne + Hyper-textuality 
-![alt text](https://github.com/[TajHealy]/[CodeWords]/blob/[week_01]/minecraft.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/minecraft.jpg?raw=true)
+
 MINECRAFT MELBOURNE + HYPERTEXTUALITY
 At midday the class gathered in a Minecraft version of Melbourne. It was interesting to see people interacting and co-operating in a digital space as if it were a physical classroom. During this we discussed hyper-textuality and how reading will change in the digital world. This experience made me wonder how virtual environments could replace physical classrooms in an unusual time such as now. 
 
