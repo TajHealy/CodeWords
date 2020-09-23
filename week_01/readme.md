@@ -16,9 +16,9 @@ At the moment I feel the only way a virtual classroom could adequately replace a
 ## An Introduction to CODE
 In our first coding lesson we learnt the basics of opening up Processing and setting up a new sketch under p5.Js mode. We also gained an understanding of how to draw different colours, shapes, lines and ways to make the code interactive. Before next class we were asked to use this new knowledge to create the first letter of our first name.
 
-## In Class Work (interactive) 
-[Click here to try my first sketch!](https://TajHealy.github.io/CodeWords/week_01/MyFirstSketch/) 
-[Click here for Rainbow Circles!](https://TajHealy.github.io/CodeWords/week_01/rainbowcircles/)
+# In Class Work (interactive) 
+## [Click here to try my first sketch!](https://TajHealy.github.io/CodeWords/week_01/MyFirstSketch/) 
+## [Click here for Rainbow Circles!](https://TajHealy.github.io/CodeWords/week_01/rainbowcircles/)
 ## ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/MyFirstSketch.jpg?raw=true)
 ## ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/rainbowCircle.jpg?raw=true)
 
