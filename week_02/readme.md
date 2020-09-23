@@ -13,12 +13,12 @@ For this week’s hour of code, we focussed on creating a spirograph that rolled
 For homework we were asked to tinker with a peer’s code and change it in some way. After seeing how one student had changed my original code using 3D shapes, I decided to create a small experiment using different bits of code we had learnt so far as well as 3D elements.
 
 ## Spirograph Pattern (interactive)
-## [Watch A Cool Spirograph Here!](https://TajHealy.github.io/CodeWords/week_02/nearlySpirograph/).
+## [Watch A Cool Spirograph Here](https://TajHealy.github.io/CodeWords/week_02/nearlySpirograph/).
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/codeSpirograph.jpg?raw=true)
 ## Tinkering With Code (interactive)
 ## [The letter 'M' has never been so FUN! CLICK HERE NOW](https://TajHealy.github.io/CodeWords/week_02/CeliaRemixM/).
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/mVanishing.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/mVanishing2.jpg?raw=true)
 ## Playing With 3D (interactive)
-## [It spins, it's 3D, change it's colour CLICK CLICK CLICK!](https://TajHealy.github.io/CodeWords/week_02/Spinning3D/).
+## [It spins, it's 3D, change it's colour CLICK CLICK CLICK](https://TajHealy.github.io/CodeWords/week_02/Spinning3D/).
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/3Dspin.jpg?raw=true)
