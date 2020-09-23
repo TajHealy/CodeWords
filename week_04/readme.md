@@ -1,8 +1,8 @@
 # WEEK_04
 
 ## CODE CORNER
-## [This will make you think "WOW, IT SPINS!" Click to see how right I am](https://TajHealy.github.io/CodeWords/week_03/typeLesson2/).
 This week we focussed on how to pre-load and load different typefaces into our Code, then animate them to repeat, fade and spin. This was a fun first step to gaining an understanding of how we can start to incorporate written information into our coding.
+## [This will make you think "WOW, IT SPINS!" Click to see how right I am](https://TajHealy.github.io/CodeWords/week_03/typeLesson2/)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_04/week4images/basicsoftype.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_04/week4images/spinType.jpg?raw=true)
 
