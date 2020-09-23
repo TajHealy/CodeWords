@@ -24,6 +24,7 @@ In our first coding lesson we learnt the basics of opening up Processing and set
 
 
 ## Initials work (practice and interactive final)
+## [Try out my Blocky T!](https://TajHealy.github.io/CodeWords/week_01/ShapesT/).
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/initialsLine.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/shapesT.jpg?raw=true)
-[Try out my Blocky T!](https://TajHealy.github.io/CodeWords/week_01/ShapesT/).
+
