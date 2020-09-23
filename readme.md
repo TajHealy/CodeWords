@@ -1,4 +1,4 @@
 
 **WELCOME TO MY CODE-WORDS SKO**
 
-![WEEK_01](https://github.com/TajHealy/CodeWords/blob/master/week_01?raw=true)
+### <a href="Week_01">Week_01</a>
