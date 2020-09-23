@@ -18,8 +18,11 @@ In our first coding lesson we learnt the basics of opening up Processing and set
 
 ## In Class Work (interactive)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/MyFirstSketch.jpg?raw=true)
+[Try it out yourself!](https://TajHealy.github.io/CodeWords/week_01/MyFirstSketch/).
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/rainbowCircle.jpg?raw=true)
+[Try it out yourself!](https://TajHealy.github.io/CodeWords/week_01/rainbowCircle/).
 
 ## Initials work (practice and interactive final)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/initialsLine.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/shapesT.jpg?raw=true)
+[Try it out yourself!](https://TajHealy.github.io/CodeWords/week_01/shapesT/).
