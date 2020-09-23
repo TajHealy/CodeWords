@@ -1,4 +1,4 @@
 
 **WELCOME TO MY CODE-WORDS SKO**
 
-### <a href="Week_01">Week_01</a>
+### <a href="week_01">WEEK_01</a>
