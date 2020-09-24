@@ -1,6 +1,6 @@
 //random walk function from 'The Code Train' on youtube
 function preload() {
-  font = loadFont('blankenburg.ttf');
+  font = loadFont('data/blankenburg.ttf');
 }
 
 let points;
