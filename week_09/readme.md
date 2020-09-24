@@ -1,5 +1,6 @@
 WEEK_09
 
+<pre><code>
 
 function preload() {
   font = loadFont('data/blankenburg.ttf');
@@ -51,3 +52,5 @@ switch (r) {
 
   }
 }
+
+</code></pre>
