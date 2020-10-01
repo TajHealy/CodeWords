@@ -14,48 +14,33 @@ var wx, wy;
 var typesize = 140;
 var spacesize = 45; //width of space between letters
 var linesize = 280; //height between lines
-
 var xPosition, yPosition;
 var bounds;
-//var creepWords = [];
+var creepWords = [];
 //var vehicles = [];
 
 
 function preload(){
   font = loadFont('data/NewRocker-Regular.ttf');
 }
-
-
 function setup() {
-createCanvas (windowWidth,windowHeight*9.5);
-background(0);
-textFont(font);
- textSize (typesize);
-  //stroke(200);
-  //fill(255);
-  //strokeWeight(2);
-  //stroke(255);
-  
-}
-
-
-
-function draw(){
-  //background(0);
-  //fill (0,50);
+  createCanvas (windowWidth,windowHeight*9.5);
+  background(0);
+  textFont(font);
+  textSize (typesize);
   wx = margin;
   wy = 200;
- for (var w=0; w<words.length;w++){ 
-      if (wx+textWidth(words[w])<=width-margin){
-      points1 = font.textToPoints(words[w], wx, wy+50, typesize, 0.9);
-   //stroke(5);
-   text(words[w], wx, wy+50); //toggle off after debug...
-   for (let i=0; i <points1.length; i++){
-   stroke(255,0,0);
-   fill(255,0,0);
-   strokeWeight(2);
-   //point(points1[i].x, points1[i].y);
-      }
+  fill(255,0,0);
+  for (var w=0; w<words.length;w++){ 
+     if (wx+textWidth(words[w])<=width-margin){
+        points1 = font.textToPoints(words[w], wx, wy+50, typesize, 0.9);
+       //stroke(5);
+       text(words[w], wx, wy+50); //toggle off after debug...
+       for (let i=0; i <points1.length; i++){
+         stroke(255,0,0); // of course you can make this red!
+         strokeWeight(2);
+         creepWords.push(new Creep (points1[i].x, points1[i].y));
+        }
         wx+=textWidth(words[w])+spacesize;
       }
       else {
@@ -63,63 +48,36 @@ function draw(){
         wy+=linesize;
         w--;
       }
- }
+ }  
 }
 
-//function Vehicle(){
-// this.pos = createVector(x,y);
-// this.target = createVector(x,y);
-// this.vel = createVector();
-// this.acc = createVector();
-//this.r=8;
-//}
-//vehicle.prototype.update=function(){
-//this.pos.add(this.vel);
-//this.vel.add(this.acc);
-//}
-
-//vehicle.prototype.show = function(){
-//  stroke(255,0,0);
-//   strokeWeight(10);
-//   point(this.points1[i].x, this.points1[i].y);
-//}
+function draw(){
+  //background(0);
+  //fill (0,50);
+  
+ for (var i=0; i<creepWords.length ; i++){
+    creepWords[i].creep();
+    creepWords[i].display();
+  }
+}
 
 //CLASS ATTEMPT
-//class Creep {  
-//  constructor (x, y) {
-//    this.x = x;
-//    this.y = y;
-//  }
-//  creep() {
-//    this.x += random (-2,2);
-//    this.y += random (-2,2);
-//    //speed = map(mouseY,0, windowHeight, 0,10);
-//    //this.x += random (-speed, speed);
-//    //this.y += random (-speed, speed);
-//  }
-//  display() {
-//    textSize(this.textSize);
-//    text(this.letter, this.x, this.y);
-//  }
-//}
-
-
-//attempt at applying random walk to text
-//function draw(){
-//var r = floor(random(4));
-//switch (r) {
-//case 0:
-//wx = wx = 1;
-//    break;
-//case 1:
-//wx = wx = -1;
-//  break;
-//case 2:
-//wy = wy = 1;
-//  break;
-//case 3:
-//wy = wy = 1;
-//  break;
-  
-//  }
-//}
+class Creep {  
+  constructor (x, y) {
+    this.x = x;
+    this.y = y;
+  }
+  creep() {
+    this.x += random (-2,2);
+    this.y += random (0,3);
+    //speed = map(mouseY,0, windowHeight, 0,10);
+    //this.x += random (-speed, speed);
+    //this.y += random (-speed, speed);
+  }
+  display() {
+    stroke(0,255,0);
+    //textSize(this.textSize);
+    //text(this.letter, this.x, this.y);
+    point(this.x,this.y);
+  }
+}
