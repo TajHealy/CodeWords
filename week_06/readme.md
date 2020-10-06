@@ -7,4 +7,6 @@ This week’s lesson started with an introduction to paper prototyping. The goal
 After class, I took time over the next week to brainstorm ideas for my major project, then created paper prototypes based on these sketches. My selected text for this project is ‘Blackletter and Black Metal’ by Metahaven. My paper prototypes play with the legibility and clarity of my chosen text with different aspects making the text more or less difficult to read.
 
 ## CODE CORNER
+## [](https://TajHealy.github.io/CodeWords/week_06/MyFirstSketch/) 
+## [](https://TajHealy.github.io/CodeWords/week_06/MyFirstSketch/) 
 In this week’s code lesson, we were taught how to incorporate paragraphs of text into our work and how to code random results. I found learning how to create random patterns and select elements from a list at random extremely interesting. I hope to incorporate elements of random in my major project so this session was a step in a direction I would like to follow and understand even better.
