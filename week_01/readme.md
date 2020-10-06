@@ -18,7 +18,7 @@ In our first coding lesson we learnt the basics of opening up Processing and set
 
 # In Class Work (interactive) 
 ## [Click here to try my first sketch!](https://TajHealy.github.io/CodeWords/week_01/MyFirstSketch/) 
-## [Click here for Rainbow Circles!](https://TajHealy.github.io/CodeWords/week_01/rainbowcircles/)
+## [Click here for triangular drawing!](https://TajHealy.github.io/CodeWords/week_01/rainbowcircles/)
 ## ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/MyFirstSketch.jpg?raw=true)
 ## ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/rainbowCircle.jpg?raw=true)
 
