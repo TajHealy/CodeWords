@@ -10,7 +10,9 @@ At the moment I feel I could tie this passage into my design through the use of 
 
 ## Paper Prototyping + Pseudo Code
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_07/week7images/paperPrototype.gif?raw=true)
+
 My current concept is to have the reader land on a page of blackletter text but as they scroll the letters branch out like a metal band logo and audio gets louder. 
+
 
 START
 show preloaded text in legible font
@@ -32,6 +34,7 @@ UNLESS user has already scrolled up THEN
   leave sound quiet
 
 ## CODE CORNER
-## [Use this link for a funky time](https://TajHealy.github.io/CodeWords/week_07/soundTest/) 
+## [Use this link for a funky time](https://TajHealy.github.io/CodeWords/week_07/soundTest/)
+
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_07/week7images/soundTest.jpg?raw=true)
 This week in the code corner we were introduced to importing and pre-loading .mp3 files into our sketches. This led into a tutorial on how to generate visuals that react to the volume of the sounds playing. We were then all tasked with creating and uploading our own remixes of what we learnt in class. Using code to generate visuals based on sound is very interesting to me and I can imagine implimenting something like this into my major project.
