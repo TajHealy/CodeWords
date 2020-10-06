@@ -5,4 +5,7 @@
 
 
 ## Iterations so far
-![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_03/week3images/wizardMario.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_10/week10images/image1.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_10/week10images/image2.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_10/week10images/image3.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_10/week10images/image4.jpg?raw=true)
