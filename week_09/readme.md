@@ -9,6 +9,7 @@ I was especially stuck after class with managing to achieve a carriage return ef
 
 
 Online resources used this week:
+
 https://p5js.org/reference/#/p5.Font/textToPoints
 https://p5js.org/reference/#/p5/text
 https://www.youtube.com/watch?v=4hA7G3gup-4&ab_channel=TheCodingTrain
