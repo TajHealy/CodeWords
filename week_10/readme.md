@@ -5,3 +5,4 @@
 
 
 ## Iterations so far
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_10/week10images/2.43.06 pm?raw=true)
