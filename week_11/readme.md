@@ -1,4 +1,4 @@
 # WEEK_11
 
-## troubleshooting sound link
-## [Code link here](https://TajHealy.github.io/CodeWords/week_11/tinkeredWeek11/)
+## Major Project
+## [Try out the experience!](https://TajHealy.github.io/CodeWords/week_11/tinkeredWeek11/)
