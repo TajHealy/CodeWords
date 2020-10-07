@@ -8,3 +8,5 @@ I really enjoyed reinterpreting ‘House of Leaves’ mainly because it’s such
 # Introduction to our Final Assignment
 In the second half of week 5’s class we were divided into small groups and asked to pick some readings and provide the rest of the class with brief explanations of what can be expected from the selected text. This was a good opportunity to see a summary of each reading without having to read the entire thing. I personally have a great interest in the reading ‘Blackletter and Black Metal’ by Metahaven. I’ve always loved blackletter aesthetically and I believe illegible black metal band logos would translate quite well into the digital world of code.
 
+
+### [PREVIOUS WEEK](https://TajHealy.github.io/CodeWords/week_04/) ----- [NEXT WEEK](https://TajHealy.github.io/CodeWords/week_06/) 
