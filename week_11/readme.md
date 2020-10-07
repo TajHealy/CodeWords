@@ -9,3 +9,12 @@ My new creation creates a simulation or experience where the users movement (whe
 
 ## The following images are some iterations of my work this week
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image10.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image9.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image8.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image7.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image6.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image5.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image4.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image3.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image2.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image1.jpg?raw=true)
