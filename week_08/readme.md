@@ -8,3 +8,5 @@ At the moment I think the most difficult part of this project will be learning h
 ## CODE CORNER
 This week’s coding lesson in class walked us through a huge range of JavaScript possibilities including creating classes, new variables like rand, letter and speed, how to create a wriggling effect and how to assign the variables and application of these wriggles to mousePressed and mouseX, mouseY.
 
+
+### [PREVIOUS WEEK](https://TajHealy.github.io/CodeWords/week_07/) ----- [NEXT WEEK](https://TajHealy.github.io/CodeWords/week_09/) 
