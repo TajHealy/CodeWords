@@ -16,5 +16,4 @@ Before our next class my group and I began re-recording scenes as we felt our fi
 https://youtu.be/KQGvEqaG5Ro  
 
 
-### <a href="week_03">PREVIOUS WEEK</a>
-### <a href="week_05">NEXT WEEK</a>
+### <a href="week_03">PREVIOUS WEEK</a>  ---  <a href="week_05">NEXT WEEK</a>
