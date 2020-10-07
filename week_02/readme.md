@@ -23,5 +23,5 @@ For homework we were asked to tinker with a peer’s code and change it in some 
 ## [It spins, it's 3D, change it's colour CLICK CLICK CLICK](https://TajHealy.github.io/CodeWords/week_02/Spinning3D/).
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/3Dspin.jpg?raw=true)
 
-### <a href="week_02">PREVIOUS WEEK</a>
+### <a href="week_01">PREVIOUS WEEK</a>
 ### <a href="week_03">NEXT WEEK</a>
