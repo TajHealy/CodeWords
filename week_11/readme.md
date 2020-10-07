@@ -10,7 +10,8 @@ My new creation simulates an experience where the users movement (whether it be 
 ## What next?
 Moving forward with this project I need to get the page working consistently across different sized displays by avoiding set variables. I also want to try achieving more constistant results when realoading the page because at the moment if you reload the page the sound stops and requires a mousePressed to start again.
 
-## The following images are some iterations of my work this week
+## Progress shots
+The following images are some iterations of my work this week. I began by trialing bleed directions, speed, size and overall colour and typesetting, then moved onto changing the metal effect to a bleeding effect determined by user movement.
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image10.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image9.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image8.jpg?raw=true)
