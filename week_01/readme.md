@@ -29,4 +29,4 @@ In our first coding lesson we learnt the basics of opening up Processing and set
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_01/shapesT.jpg?raw=true)
 
 
-### <a href="week_02">NEXT WEEK</a>
+### <a href="week_02">WEEK_02</a>
