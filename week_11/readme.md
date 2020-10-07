@@ -7,6 +7,9 @@ This week I made a huge amount of progress tweaking and refining my code so it o
 
 My new creation simulates an experience where the users movement (whether it be mouseMove, mousePressed or mouseWheel) results in the size of the dripping points increasing. This creates a sense of panic as the more the user attempts to read and scroll the more they are punished, creating a bleeding effect running down the page. This disturbing bleeding effect links directly to torture and the punishment victims of torture face when they resist or move. The addition of a droning sound also links to the texts discussion of torture via sound and adds to the sense of pannic while trying to read. While it's almost impossible to read the entire passage without bleeding over the text, I believe this will generate enough interest that viewers will want to see the source of the original reading.
 
+## What next?
+Moving forward with this project I need to get the page working consistently across different sized displays by avoiding set variables. I also want to try achieving more constistant results when realoading the page because at the moment if you reload the page the sound stops and requires a mousePressed to start again.
+
 ## The following images are some iterations of my work this week
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image10.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image9.jpg?raw=true)
