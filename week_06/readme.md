@@ -11,3 +11,6 @@ After class, I took time over the next week to brainstorm ideas for my major pro
 ## [literally so random like literally random as](https://TajHealy.github.io/CodeWords/week_06/randomIntroduction/) 
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_06/week6images/randomText.jpg?raw=true)
 In this week’s code lesson, we were taught how to incorporate paragraphs of text into our work and how to code random results. I found learning how to create random patterns and select elements from a list at random extremely interesting. I hope to incorporate elements of random in my major project so this session was a step in a direction I would like to follow and understand even better.
+
+
+### [PREVIOUS WEEK](https://TajHealy.github.io/CodeWords/week_05/) ----- [NEXT WEEK](https://TajHealy.github.io/CodeWords/week_07/) 
