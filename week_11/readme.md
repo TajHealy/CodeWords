@@ -2,7 +2,7 @@
 
 # Major Project
 ## [Before Class progress](https://TajHealy.github.io/CodeWords/week_11/tinkeredWeek11/)
-## [After Class progress](https://TajHealy.github.io/CodeWords/week_11/Week11ResizedMultiplierMap/)
+## [After Class progress](https://TajHealy.github.io/CodeWords/week_11/Week11ResizeMultiplierMap/)
 
 This week I made a huge amount of progress tweaking and refining my code so it operated and appeared the way I wanted aesthetically. In the beggining of this major project I wanted the end product to create the look of a black metal band logo, becoming illegible as you scrolled. This was to create a link between black metal and the form of torture via black metal music discussed in the passage. Despite this, over the past week I began to realise and form much deeper connections than I initially inteded resulting in a product that may not directly represent my initial idea but improves upon it. 
 
