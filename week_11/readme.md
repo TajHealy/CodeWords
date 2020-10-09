@@ -23,6 +23,6 @@ The following images are some iterations of my work this week. I began by triali
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image3.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image2.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_11/week11images/image1.jpg?raw=true)
-
+ 
 
 ### [PREVIOUS WEEK](https://TajHealy.github.io/CodeWords/week_10/) ----- [NEXT WEEK](https://TajHealy.github.io/CodeWords/week_12/) 
