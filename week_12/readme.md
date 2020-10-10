@@ -1,7 +1,7 @@
 # WEEK_12
 
 # Code trouble
-## [Current progress](https://TajHealy.github.io/CodeWords/week_12/mapAttempt3.js/).
+## [Current progress](https://TajHealy.github.io/CodeWords/week_12/mapAttempt3/).
 
 
 
