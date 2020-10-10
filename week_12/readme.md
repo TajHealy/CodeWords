@@ -1,5 +1,11 @@
 # WEEK_12
 
+# Code trouble
+
+
+
+
+
 # Artist Statement for major project
 
 ## THE BAY
