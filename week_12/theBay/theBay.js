@@ -38,7 +38,7 @@ function setup() {
   var typesize = (map(width,300,1650,50,200));
   textSize (typesize*multiplier);
   spacesize = 50; //width of space between letters
-  linesize = 280;
+  linesize = 280*multiplier;
   
   
   song.play();
@@ -93,7 +93,7 @@ function makeCreep(){
   var typesize = (map(width,300,1650,50,200));
   textSize (typesize*multiplier);
   spacesize = 50; //width of space between letters
-  linesize = 280;
+  linesize = 280*multiplier;
   
   
    song.play();
