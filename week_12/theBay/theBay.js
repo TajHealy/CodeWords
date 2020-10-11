@@ -35,7 +35,7 @@ function setup() {
   createCanvas (windowWidth,windowHeight*9.87);
   
   var multiplier = map(width,200,1800,0.25,1);
-  var typesize = (map(width,300,1650,50,200));
+  var typesize = (map(width,300,1650,50,195));
   textSize (typesize*multiplier);
   spacesize = 50*multiplier; //width of space between letters
   linesize = 280*multiplier;
@@ -90,7 +90,7 @@ function makeCreep(){
   resizeCanvas(windowWidth,windowHeight*9.87);
   
  var multiplier = map(width,200,1800,0.25,1);
-  var typesize = (map(width,300,1650,50,200));
+  var typesize = (map(width,300,1650,50,195));
   textSize (typesize*multiplier);
   spacesize = 50*multiplier; //width of space between letters
   linesize = 280*multiplier;
