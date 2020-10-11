@@ -59,7 +59,7 @@ function draw(){
     creepWords[i].creep();
     creepWords[i].display();
       var volume = analyzer.getLevel();
-  volume*=2;
+  volume*='.8';
   strokeWeight(volume);
   }
 }
