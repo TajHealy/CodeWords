@@ -9,7 +9,6 @@ At the moment I feel I could tie this passage into my design through the use of 
 
 
 ## Paper Prototyping + Pseudo Code
-![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_07/week7images/paperPrototype.gif?raw=true)
 
 My current concept is to have the reader land on a page of blackletter text but as they scroll the letters branch out like a metal band logo and audio gets louder. 
 
