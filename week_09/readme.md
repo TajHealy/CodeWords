@@ -8,7 +8,8 @@ This weeks lesson was mostly just dedicated to starting off our project and gett
 I was especially stuck after class with creating a carriage return effect with my textToPoints so they wouldn't run off the page. Karen was a huge help and provided me with the code that creates margins and carriage returns which I ended up using as a template. 
 
 
-Online resources used this week:
+ Online resources used this week:
+
  [textToPoints](https://p5js.org/reference/#/p5.Font/textToPoints)
 
  [text](https://p5js.org/reference/#/p5/text)
