@@ -11,11 +11,11 @@ I was especially stuck after class with creating a carriage return effect with m
 
 Online resources used this week:
 
-https://p5js.org/reference/#/p5.Font/textToPoints
-https://p5js.org/reference/#/p5/text
-https://www.youtube.com/watch?v=4hA7G3gup-4&ab_channel=TheCodingTrain
-https://www.youtube.com/watch?v=wbDF6xcgvV8&ab_channel=xinxin
-https://www.youtube.com/watch?v=G6o_BZqSkSw&ab_channel=xinxin
+[textToPoints](https://p5js.org/reference/#/p5.Font/textToPoints)
+[text](https://p5js.org/reference/#/p5/text)
+[The Coding Train - steering behaviours](https://www.youtube.com/watch?v=4hA7G3gup-4&ab_channel=TheCodingTrain)
+[xin xin - 1.1 Intro to textToPoints()](https://www.youtube.com/watch?v=wbDF6xcgvV8&ab_channel=xinxin)
+[xin xin - 1.2: textToPoints() Letter Morphing](https://www.youtube.com/watch?v=G6o_BZqSkSw&ab_channel=xinxin)
  
 
 ### [PREVIOUS WEEK](https://TajHealy.github.io/CodeWords/week_08/) ----- [NEXT WEEK](https://TajHealy.github.io/CodeWords/week_10/) 
