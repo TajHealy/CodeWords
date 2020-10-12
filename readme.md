@@ -1,5 +1,6 @@
 
 **WELCOME TO MY CODE-WORDS SKO**
+This is a space for me to log my progress and learning throughout the semester within the Codewords course. I've chosen to log my progress weekly with summaries on the recources I find, future plans, class work and issues I'm facing with my code.
 
 ### <a href="week_01">WEEK_01</a>
 ### <a href="week_02">WEEK_02</a>
