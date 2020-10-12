@@ -16,7 +16,7 @@ For homework we were asked to tinker with a peer’s code and change it in some 
 ## [Watch A Cool Spirograph Here](https://TajHealy.github.io/CodeWords/week_02/nearlySpirograph/).
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/codeSpirograph.jpg?raw=true)
 ## Tinkering With Code (interactive)
-## [The letter 'M' has never been so FUN! CLICK HERE NOW](https://TajHealy.github.io/CodeWords/week_02/CeliaRemixM/).
+## [The letter 'M' has never been so FUN! original code by Celia](https://TajHealy.github.io/CodeWords/week_02/CeliaRemixM/).
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/mVanishing.jpg?raw=true)
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/mVanishing2.jpg?raw=true)
 ## Playing With 3D (interactive)
