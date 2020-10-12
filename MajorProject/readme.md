@@ -1,5 +1,6 @@
-# Codewords_Brief3_MajorProject_2020
-## Taj Healy_s3783036
+# Taj Healy_s3783036_Codewords_Brief3_MajorProject_2020
+
+# The Bay 
 
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/MajorProject/submissionPics/heroImage1.jpg?raw=true) 
 
