@@ -14,7 +14,7 @@ Before our next class my group and I began re-recording scenes as we felt our fi
 
 ## Re-Reading of 'House of Leaves' Chapters 1 and 2 [ Told through Second Life ]
 
-[WATCH HERE](https://youtu.be/KQGvEqaG5Ro)
+***[WATCH HERE](https://youtu.be/KQGvEqaG5Ro)***
 
 
 ### [PREVIOUS WEEK](https://TajHealy.github.io/CodeWords/week_03/) ----- [NEXT WEEK](https://TajHealy.github.io/CodeWords/week_05/) 
