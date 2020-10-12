@@ -1,10 +1,8 @@
-
+# Codewords_Brief3_MajorProject_2020
+## Taj Healy_s3783036
 
 # Code
 ## [The Bay](https://TajHealy.github.io/CodeWords/week_12/theBay/) 
-
-
-
 
 
 # Artist Statement for major project
