@@ -2,7 +2,7 @@
 ## Taj Healy_s3783036
 
 ## [The Bay](https://TajHealy.github.io/CodeWords/week_12/theBay/) 
-![alt text](https://github.com/TajHealy/CodeWords/blob/master/Major Project/submissionPics/heroImage1.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/Major Project/submissionPics/heroImage1.jpg?raw=true) 
 
 # Artist Statement
 ‘The Bay’ is an interactive digital reading experience created using JavaScript. The work is based on Metahaven’s text ‘Blackletter and Black Metal’ which explores the concept behind illegible black metal band logos and relates this illegibility to CAPTCHAS ‘I am not a robot’ text. Metahaven also explores the subcultures surrounding black letter and discusses the use of black metal music being used as a method of torture in Guantanamo bay.  
