@@ -1,7 +1,6 @@
 # Codewords_Brief3_MajorProject_2020
 ## Taj Healy_s3783036
 
-## [The Bay](https://TajHealy.github.io/CodeWords/week_12/theBay/) 
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/MajorProject/submissionPics/heroImage1.jpg?raw=true) 
 
 # Artist Statement
@@ -12,4 +11,7 @@ My work presents a passage from Metahaven’s original text on Guantanamo Bay’
 The goal of ‘The Bay’ is not simply to explore the concept of illegibility, but to generate interest for Metahaven’s original text and to promote the use of JavaScript as a tool for creating designed digital reading experiences. So many of us almost exclusively read digitally so it’s important we begin designing these experiences and pushing the boundaries of what reading in a digital space can be. 
 
 INSTRUCTIONS: Click the mouse when loading the page for the full experience.
+
+# Click Below To Begin
+## [The Bay](https://TajHealy.github.io/CodeWords/week_12/theBay/) 
 
