@@ -15,4 +15,4 @@
 ### <a href="week_10">WEEK_10</a>
 ### <a href="week_11">WEEK_11</a>
 ### <a href="week_12">WEEK_12</a>
-### <a href="Major Project">Major Project Submission</a>
+### <a href="MajorProject">Major Project Submission</a>
