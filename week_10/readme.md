@@ -14,4 +14,4 @@ These images demonstrate some of the tweaks I made while playing around with how
 
 
 
-### [PREVIOUS WEEK](https://TajHealy.github.io/CodeWords/week_9/) ----- [NEXT WEEK](https://TajHealy.github.io/CodeWords/week_11/) 
+### [PREVIOUS WEEK](https://TajHealy.github.io/CodeWords/week_09/) ----- [NEXT WEEK](https://TajHealy.github.io/CodeWords/week_11/) 
