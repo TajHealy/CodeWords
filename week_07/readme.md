@@ -12,14 +12,13 @@ At the moment I feel I could tie this passage into my design through the use of 
 
 My current concept is to have the reader land on a page of blackletter text but as they scroll the letters branch out like a metal band logo and audio gets louder. 
 
-< > )
-START
-show preloaded text in legible font
-  play quiet humming sound
+<START>
+<show preloaded text in legible font>
+    <play quiet humming sound>
 
-IF user scrolls down
-  Type becomes illegible
-  sound playing gets louder 
+<IF user scrolls down>
+  <Type becomes illegible>
+  <sound playing gets louder>
 
 ELSE IF user does not scroll
   leave type legible and sound quiet
