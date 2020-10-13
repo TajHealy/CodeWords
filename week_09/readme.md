@@ -10,9 +10,9 @@ I was especially stuck after class with creating a carriage return effect with m
 
  Online resources used this week:
 
- ***[textToPoints](https://p5js.org/reference/#/p5.Font/textToPoints)***
+ ***[p5.js - textToPoints reference](https://p5js.org/reference/#/p5.Font/textToPoints)***
 
- ***[text](https://p5js.org/reference/#/p5/text)***
+ ***[p5.js text reference](https://p5js.org/reference/#/p5/text)***
 
  ***[The Coding Train - steering behaviours](https://www.youtube.com/watch?v=4hA7G3gup-4&ab_channel=TheCodingTrain)***
 
