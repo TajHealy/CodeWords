@@ -16,3 +16,5 @@ INSTRUCTIONS: Click the mouse when loading the page for the full experience.
 # Click Below To Begin
 ## [The Bay](https://TajHealy.github.io/CodeWords/week_12/theBay/) 
 
+# Original Reading by Metahaven
+***[Blackletter and Black Metal](http://digbeyond.com/readme/view.php?id=53&course=Code%20Words)***
