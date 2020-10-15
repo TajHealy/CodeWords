@@ -4,10 +4,13 @@ text-to-points function and parametric margins/space settings.
 by k.donnachie, for Code Words, 2020
 
 Random walk techique created with help from 'The Coding Train' on youtube
-VID HERE: https://www.youtube.com/watch?v=l__fEY1xanY&t=772s&ab_channel=TheCodingTrain
+VID HERE: https://youtu.be/l__fEY1xanY
 
 Original droning sound mp3 sourced from SoundEffectFactory on YouTube (Royalty Free)
-VID HERE: https://www.youtube.com/watch?v=IDfptfn9t1k&ab_channel=SoundEffectsFactory
+VID HERE: https://youtu.be/IDfptfn9t1k
+
+Typeface OTF used: New Rocker by Impallari Type
+LINK HERE: https://www.fontsquirrel.com/fonts/new-rocker
 */
 
 var font;
