@@ -1,6 +1,6 @@
 # WEEK_05
 
-## Group Assignment Submission and Viewing
+# Group Assignment Submission and Viewing
 Our week 5 class was largely focussed on watching each groups interpretation of their chapter of ‘House of Leaves’. Watching each video as a class was a great opportunity to see how each group had chosen to portray each character and conversation in a different way. I especially liked seeing how the stories dual narrative was communicated via different games. 
 
 I really enjoyed reinterpreting ‘House of Leaves’ mainly because it’s such a great candidate for a virtual retelling due to its already unusual and jarring nature. I felt the trade of written descriptions for quick visuals in a range of digital environments interesting and worth watching if the source material is something you enjoy. My group and I wanted to stay true to the jarring and uncertain storytelling of the Navidson Record and the duel narrative that accompanied it. I felt like we accomplished this very clearly and was able to communicate a stark contrast between the first and second chapters similarly to how they were originally written. This project was especially enjoyable as my group cooperated really well, and we all enjoyed using Second Life as a tool to meet the briefs requirements. Second Life’s in-game proximity chat made communicating with each other especially easy. Second Life also had a huge range of pre-made locations for us to choose from and a huge range of camera options making filming quite simple once we got a hang of the camera controls. 
