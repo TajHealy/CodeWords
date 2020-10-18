@@ -2,7 +2,7 @@
 
 # The Bay 
 
-![alt text](https://github.com/TajHealy/CodeWords/blob/master/MajorProject/submissionPics/heroImage1.jpg?raw=true) 
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/MajorProject/theBayGif3.gif?raw=true) 
 
 # Designer Statement
 ‘The Bay’ is an interactive reading experience created using JavaScript. The work is inspired by Metahaven’s text ‘Blackletter and Black Metal’ which explores illegible black metal logos and relates this illegibility to CAPTCHAS ‘I am not a robot’. Metahaven also explores the subcultures surrounding black metal and the use of black metal music being used as a method of torture in Guantanamo bay.
