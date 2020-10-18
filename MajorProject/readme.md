@@ -12,7 +12,7 @@
 The goal of ‘The Bay’ is not simply to explore illegibility, but to generate interest for Metahaven’s original text and the use of JavaScript as a tool for creating designed reading experiences. We almost exclusively read digitally so it’s important we begin designing these experiences and pushing the boundaries of what reading online can be.
 
 
-***INSTRUCTIONS: INSTRUCTIONS: When loading, click mouse.***
+***INSTRUCTIONS: When loading, click mouse.***
 
 # Click Below To Begin
 ## [The Bay](https://TajHealy.github.io/CodeWords/week_12/theBay/) 
