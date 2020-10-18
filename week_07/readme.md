@@ -8,7 +8,7 @@ During class this week I decided on a short passage from my chosen text 'Black L
 At the moment I feel I could tie this passage into my design through the use of scary audio or visuals suggesting the idea of being tortured.
 
 
-# Paper Prototyping + Pseudo Code
+# Pseudo Code
 
 My current concept is to have the reader land on a page of blackletter text but as they scroll the letters branch out like a metal band logo and audio gets louder. 
 
