@@ -15,7 +15,15 @@ After class in week 11 I began refining and tidying my code in preperation for o
 # Going LIVE
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_12/week12images/codewordsLive2.jpg?raw=true)
 
+Our week 12 session was commited to uploading our completed assignments and statements to a website where we were able to view and access everyones finished product. We also spent time creating .GIF files on photoshop which we could upload to provide a quick idea of what or project may entail.
 
+Once the website was live, the session concluded with a quick look and listen to everyone's projects and a very tearful goodbye. The chance to see how everyone had interpreted and chosen to communicate their text was fun and interesting, I plan on taking a deeper look into how some of my favourite pieces work. The diversity of results is quite intreguing and opened my eyes to the seemingly unlimited possabiliteis of designing with code.
+
+I'd like to thank both Andy and Karen ann very, very much for their incredible teaching throughout this semester for such a complex field. This course was challenging, exciting and has changed my future methods of design for the better. I'd also like to congratulate and thank my peers as most of us knew very little about code yet we were all able to produce equally interesting and eye catching work.
+
+Thank you everyone.
+
+***[check out our completed assignments here!](https://simandy.github.io/codewords/)***
 
 # Reflection
 
