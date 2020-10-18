@@ -13,7 +13,7 @@ After class in week 11 I began refining and tidying my code in preperation for o
 ***[p5.js map example](https://p5js.org/examples/math-map.html)***
 
 # Going LIVE
-![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_12/week12images/codewordsLive.jpg?raw=true)
+![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_12/week12images/codewordsLive2.jpg?raw=true)
 
 
 
