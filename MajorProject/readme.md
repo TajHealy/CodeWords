@@ -19,3 +19,6 @@ The goal of ‘The Bay’ is not simply to explore illegibility, but to generate
 
 # Original Reading by Metahaven
 ## [Blackletter and Black Metal](http://digbeyond.com/readme/view.php?id=53&course=Code%20Words)
+
+
+***[return to GitHub home page](https://tajhealy.github.io/CodeWords/)***
