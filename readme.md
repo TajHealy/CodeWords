@@ -15,4 +15,4 @@
 ### <a href="week_10">WEEK_10 - [major project = major progress]</a>
 ### <a href="week_11">WEEK_11 - [stylising + improving concept]</a>
 ### <a href="week_12">WEEK_12 - [going live + final reflective statement]</a>
-### <a href="MajorProject">Major Project Submission</a>
+### <a href="MajorProject">Major Project Submission - [view my major project here!]</a>
