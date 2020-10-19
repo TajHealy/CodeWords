@@ -2,7 +2,7 @@
 
 ## Modular Typography
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/atz_jazz_02.jpg?raw=true)
-We began our week 2 lesson by exploring modular type and gathering examples we found interesting and sharing them via a google doc. I learnt that modular typography was an alphabet conforming to rules like only using certain shapes or being restricted to a kind of grid. These restrictions is what connects modular typography to the use of type in coding. The image above was created by designer Takenobu Igarashi in 1985 for the 17th Jazz Festival (Tokyo) using lithograph on paper.
+We began our week 2 lesson by exploring modular type and gathering examples we found interesting and sharing them via a google doc. I learnt that modular typography was an alphabet conforming to rules like only using certain shapes or being restricted to a kind of grid. These restrictions are what connects modular typography to the use of type in coding. The image above was created by designer Takenobu Igarashi in 1985 for the 17th Jazz Festival (Tokyo) using lithograph on paper.
 
 ## 'Second Life' and 'The House of Leaves'
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_02/week2images/slGoogleDoc.jpg?raw=true)
