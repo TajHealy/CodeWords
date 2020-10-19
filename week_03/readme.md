@@ -12,7 +12,7 @@ This week we were also introduced to a website called AI dungeon which is a free
 
 # Second Life Group Work
 ![alt text](https://github.com/TajHealy/CodeWords/blob/master/week_03/week3images/slPlaytime.jpg?raw=true)
-For our first assignment, my group took this week to focus on location scouting and finding ways we could use environments in Second Life to clearly communicate visuals from the novel ‘House of Leaves’. The first loacation we found with a house we could use to film was on an island titled Temptation Adult Resort. This fun location gave us a good idea of the community that Second Life as a platform provided for.
+For our first assignment, my group took this week to focus on location scouting and finding ways we could use environments in Second Life to clearly communicate visuals from the novel ‘House of Leaves’. The first location we found with a house we could use to film was on an island titled Temptation Adult Resort. This fun location gave us a good idea of the community that Second Life as a platform provided for.
 
 
 ### [PREVIOUS WEEK](https://TajHealy.github.io/CodeWords/week_02/) ----- [NEXT WEEK](https://TajHealy.github.io/CodeWords/week_04/) 
