@@ -11,8 +11,8 @@
 ### <a href="week_06">WEEK_06 - [viewing party + major project]</a>
 ### <a href="week_07">WEEK_07 - [paper prototyping + coding random]</a>
 ### <a href="week_08">WEEK_08 - [pseudo code + preloading sound]</a>
-### <a href="week_09">WEEK_09 - </a>
-### <a href="week_10">WEEK_10 - </a>
-### <a href="week_11">WEEK_11 - </a>
-### <a href="week_12">WEEK_12 - </a>
+### <a href="week_09">WEEK_09 - [major project research]</a>
+### <a href="week_10">WEEK_10 - [major project = major progress]</a>
+### <a href="week_11">WEEK_11 - [stylising + improving concept]</a>
+### <a href="week_12">WEEK_12 - [going live + a tearful goodbye]</a>
 ### <a href="MajorProject">Major Project Submission</a>
