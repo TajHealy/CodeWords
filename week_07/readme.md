@@ -16,7 +16,9 @@ My current concept is to have the reader land on a page of blackletter text but 
 show preloaded text in legible font
     play quiet humming sound
   
-``` // START
+``` // 
+
+START
 
 IF user scrolls down
   Type becomes illegible
