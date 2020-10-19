@@ -17,7 +17,6 @@ show preloaded text in legible font
     play quiet humming sound
   
 ``` // 
-
 START
 
 IF user scrolls down
