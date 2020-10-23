@@ -2,6 +2,7 @@
 # WELCOME TO MY CODE-WORDS SKO
 
 **This is a space for me (Taj Healy) to log my progress and learning throughout the semester within the Codewords course. I’ve chosen to log my progress weekly with summaries on the recourses I find, future plans, class work and issues I’m facing with my code.**
+
 **(links to each week can be found below)**
 
 ## SKO STATEMENT
