@@ -3,6 +3,9 @@
 
 **This is a space for me (Taj Healy) to log my progress and learning throughout the semester within the Codewords course. I’ve chosen to log my progress weekly with summaries on the recourses I find, future plans, class work and issues I’m facing with my code.**
 
+## SKO STATEMENT
+
+## EXPLORE!
 ### <a href="week_01">WEEK_01 - [hypertextuality + an intro to code]</a>
 ### <a href="week_02">WEEK_02 - [modular typography + re-readings]</a>
 ### <a href="week_03">WEEK_03 - [virtual identities + ai dungeon]</a>
