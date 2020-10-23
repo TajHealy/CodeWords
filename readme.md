@@ -5,8 +5,6 @@
 
 ## SKO STATEMENT
 
-# Reflection
-
 Reflecting upon my time in Codewords and re-reading my weekly updates, I’m proud to see how far I’ve come and what I’ve been able to learn despite having never seen code before 12 weeks ago. What I’ve learnt can be broken up into the basics of code and JavaScript, or the concepts and ideas behind how reading as we know it is changing as we continue to move towards mostly digital world.
 
 Within the first five weeks of the course we were introduced to a range of concepts involving virtual worlds, the intricacies of digital reading and typography as well as the basics of coding in JavaScript. Some of the coding basics we learnt in these first five weeks included creating a canvas, drawing shapes, having what’s on screen interact with the mouse, animation and an introduction to preloading typography. Upon completing our first assignment and understanding how reading is changing I began to realise that designers play an important role in the future of creating designed and tailored reading experiences. The foundational coding workshops that took place in these early weeks have paved the way for my future plans to begin integrating JavaScript in my future design work.
